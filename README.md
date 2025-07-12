@@ -38,8 +38,8 @@
 
 ## 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/thasneem-mohamed)
-- 💌 Email: your-email@example.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/thasneem-mohamed-466a2727a/)
+- 💌 Email: thasneemmohamed802@gmail.com
 - 📱 Telegram: @yourtelegramhandle
 
 ---
