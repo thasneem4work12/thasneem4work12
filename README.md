@@ -2,7 +2,7 @@
 
 🎓 Software Engineering Student at Open University of Sri Lanka  
 💻 Passionate about AI, Web Development, and Mobile App Design  
-🌱 Currently learning: Flutter, AI Inference Optimization, and Halal Investing  
+🌱 Currently learning: Flutter, AI Inference Optimization and laravel
 📚 My research: "Optimizing Medical AI Inference in Sri Lanka via Shared CPU Cluster Pipeline Systems"
 
 ---
@@ -12,7 +12,6 @@
 - 🎮 **KindCoins** – A charity-based mobile game turning playtime into real donations  
 - 🦮 **AI Navigation System for the Visually Impaired** – Flutter-based app to assist public transport use  
 - 🌐 **Portfolio Website** – Dark-mode modern personal website (WIP)  
-- 📊 **Spot Trading Strategies** – Documenting my Binance Halal trading journey  
 
 ---
 
